@@ -1,0 +1,10 @@
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\bin\Debug\Converter SQL to MySQL GUI.exe.config
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\bin\Debug\Converter SQL to MySQL GUI.exe
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\bin\Debug\Converter SQL to MySQL GUI.pdb
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter SQL to MySQL GUI.csprojResolveAssemblyReference.cache
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter_SQL_to_MySQL_GUI.Form1.resources
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter_SQL_to_MySQL_GUI.Properties.Resources.resources
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter SQL to MySQL GUI.csproj.GenerateResource.Cache
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter SQL to MySQL GUI.exe
+c:\users\lloric garcia\documents\visual studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter SQL to MySQL GUI.pdb
+C:\Users\Lloric Garcia\Documents\Visual Studio 2013\Projects\Converter SQL to MySQL GUI\Converter SQL to MySQL GUI\obj\Debug\Converter SQL to MySQL GUI.exe.licenses
